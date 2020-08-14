@@ -8,6 +8,7 @@ Built by Stella Kimani
 # PROJECT DESCRIPTION
 Notebook 1 :Titanic is one of the most infamous shipwrecks in history. On April 15, 1912,  the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
 In this project, we need to complete the analysis of what sorts of people were likely to survive. In particular, we apply the KNN classifier to predict which passengers survived this tragedy.
+
 Notebook 2 : Using the Spambase dataset,the goal of this project is to test Naive Bayes classifier which is one of  supervised machine learning algorithms that could potentially be used as a spam filter. Essentially we want to see how this  algorithm does at predicting a spam email given certain criteria.
 
 # SET UP/ INSTALLATION REQUIREMENTS
